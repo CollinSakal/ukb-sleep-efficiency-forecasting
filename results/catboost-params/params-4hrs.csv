@@ -1,0 +1,2 @@
+model,best_auc,learning_rate,iterations,depth,subsample
+4hrs,0.9432092455075802,0.04413911554131311,1351,5,0.9626506478723685
